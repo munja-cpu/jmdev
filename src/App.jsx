@@ -21,7 +21,7 @@ const projects = [
     title: "Terrarium Website",
     desc: "I developed a modern, responsive website for marketing handcrafted terrariums using Next.js and React. The project focuses on performance, SEO optimization, and clean UI/UX design. I implemented dynamic components, optimized images for fast loading, and integrated a contact form with a custom API route and Nodemailer for email communication. The website is deployed on Vercel with a GitHub-based workflow and uses environment variables for secure configuration.",
     tech: "Next.js (App Router), React, Tailwind CSS, Node.js, Nodemailer, Vercel, GitHub",
-    image: "/public/projects/terramv.webp",
+    image: "/projects/terramv.webp",
     github: "#",
     live: "https://terramnext.vercel.app",
   },
