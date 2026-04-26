@@ -52,7 +52,7 @@ export default function App() {
         className="flex flex-col items-center text-center min-h-[70vh] justify-center"
       >
         <img
-          src="/01.jpg"
+          src="/01.webp"
           alt="profile"
           className="w-40 h-40 rounded-full object-cover border-4 border-gray-700 shadow-2xl"
         />
