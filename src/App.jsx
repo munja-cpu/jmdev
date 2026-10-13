@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 
 const projects = [
   {
-    title: "Montiis App",
+    title: "Montis App",
     desc: "Logistics SaaS for job tracking and scheduling.",
     tech: "React, Next.js",
     github: "#",
