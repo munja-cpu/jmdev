@@ -212,7 +212,7 @@ export default function App() {
           <path d="M4 7V4h3M4 12v1M10 4h1" />
         </svg>
       </div>
-        <img src="/SERVICE/redizajn.webp" alt="" />
+        <img src="/SERVICE/redizajnSajta.webp" alt="" />
       <h3 className="my-3 text-xl font-semibold text-white text-center">
         Redizajn sajta
       </h3>
