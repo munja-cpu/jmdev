@@ -35,9 +35,7 @@ const fadeUp = {
 export default function App() {
   return (
     <div className="px-6 md:px-20 py-10">
-      
 
-      
 {/* HERO */}
 <motion.section
   initial="hidden"
@@ -88,7 +86,7 @@ export default function App() {
 
 
 {/* SERVICES */}
-<section id="services" className="mx-auto mb-24 max-w-6xl px-5 py-16">
+<section id="services" className="mx-auto mb-24 max-w-6xl py-16">
 
   <motion.div
     initial="hidden"
