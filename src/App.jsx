@@ -51,6 +51,7 @@ export default function App() {
   />
 
   {/* Eyebrow */}
+  
   <p className="my-4 text-sm font-medium uppercase tracking-[0.2em] text-gray-400">
     Izrada web-sajtova
   </p>
@@ -128,8 +129,8 @@ export default function App() {
           <path d="M8 21h8M12 17v4M7 8h10M7 12h6" />
         </svg>
       </div>
-
-      <h3 className="mb-3 text-xl font-semibold text-white">
+<img src="../public/SERVICE/izrada.webp" alt="" />
+      <h3 className="my-3 text-xl font-semibold text-white text-center">
         Izrada veb-sajtova
       </h3>
 
@@ -169,8 +170,8 @@ export default function App() {
           <path d="M8 8h8M8 12h8M8 16h4" />
         </svg>
       </div>
-
-      <h3 className="mb-3 text-xl font-semibold text-white">
+      <img src="../public/SERVICE/landingPage.webp" alt="" />
+      <h3 className="my-3 text-xl font-semibold text-white text-center">
         Landing stranice
       </h3>
 
@@ -211,8 +212,8 @@ export default function App() {
           <path d="M4 7V4h3M4 12v1M10 4h1" />
         </svg>
       </div>
-
-      <h3 className="mb-3 text-xl font-semibold text-white">
+<img src="../public/SERVICE/redizajn.webp" alt="" />
+      <h3 className="my-3 text-xl font-semibold text-white text-center">
         Redizajn sajta
       </h3>
 
